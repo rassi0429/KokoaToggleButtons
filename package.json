@@ -1,0 +1,14 @@
+{
+    "name": "dev.kokoa.toggle-buttons",
+    "version": "0.2.0",
+    "displayName": "kokoa's Toggle Buttons",
+    "description": "Editor extension to enable/disable objects and mark them as Editor-only.",
+    "unity": "2022.3",
+    "author": {
+        "name": "kokoa",
+        "url": "https://github.com/rassi0429"
+    },
+    "license": "CC0-1.0",
+    "licenseUrl": "",
+    "vpmDependencies": {}
+}
